@@ -1,0 +1,11 @@
+*~
+*.o
+ptpd2
+.crproject
+.project
+GPATH
+GRTAGS
+GSYMS
+GTAGS
+/log
+/log_udp

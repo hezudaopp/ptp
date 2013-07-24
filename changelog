@@ -1,0 +1,6 @@
+oct 11
+	makefile DBGV open
+	unset t1 in sync 
+	add 2 extra byte in the tail of sync message
+oct 13
+	get sync(with t1 and t2) handled properly still did not get tested 
